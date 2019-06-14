@@ -5,3 +5,6 @@ void main(){
     print("123456");
     print("123456");
 }
+void hello(){
+    print("hellllolllllllllllllll")
+}
